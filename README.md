@@ -48,5 +48,17 @@ The goal of this project is to uncover patterns and insights related to layoffs 
 
 ---
 
-## Author
-Ranjith A R
+# Author
+
+**Ranjith A R**
+
+📧 [24ranjith2003@gmail.com](mailto:24ranjith2003@gmail.com)  
+🌐 [Portfolio](https://ranjith-nayak.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
+💻 [GitHub](https://github.com/ranjith-nayak)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
